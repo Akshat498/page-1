@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Acme&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+    border: none;
+    list-style: none;
+    text-decoration: none;
+}
+section{
+    align-content: center;
+    justify-items: center;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    min-height: 100vh;
+    background-color: black;
+
+}
+.para{
+    font-size: 70px;
+    color: white;
+    text-align: center;
+    width: 1207px;
+    background-color: black;
+    font-family:  "Acme", sans-serif;
+
+    line-height: 90px;
+
+}
